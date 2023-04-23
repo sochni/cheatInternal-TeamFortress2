@@ -1,8 +1,6 @@
 ## VAC Status
 
-The source is currently DETECTED but with junk code and vmprotect you should be good to go! :)
-
-## Important
+Undetected - Updated Offsets. By: me
 
 Project NaCl is a pasta only project.
 The projects development is off and on.
