@@ -1,5 +1,3 @@
-# Project NaCl
-
 ## VAC Status
 
 The source is currently DETECTED but with junk code and vmprotect you should be good to go! :)
@@ -10,13 +8,6 @@ Project NaCl is a pasta only project.
 The projects development is off and on.
 
 ## Overview
-
-NaCl is a potassium edit with new features such as
-
-* New FOV Based Aimbot
-* New (More) Accurate Triggerbot
-* Player Chams
-* Server Lagger (does NOT support Team Fortress 2)
 
 ## Multi-Game Support
 This cheat works on multiple source games, including
