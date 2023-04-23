@@ -2,9 +2,6 @@
 
 Undetected - Updated Offsets. By: me
 
-Project NaCl is a pasta only project.
-The projects development is off and on.
-
 ## Overview
 
 ## Multi-Game Support
@@ -24,4 +21,4 @@ This cheat works on multiple source games, including
 * Bux - Helped Me With Getting FSN Setup, Helped With A Lot of Other Features.
 * Dumpster-Fire Developers - Auto-Airblast Code
 * cademtz - Sparkly Rewrite UI & DME/Chams
-
+* sochniy - Update Offest - Undetected.
